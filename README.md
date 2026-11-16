@@ -19,7 +19,7 @@ I've had a lot of fun building **[Task Manager](https://github.com/FleepTech/Tas
 
 I also wrote **[SmartArray](https://github.com/FleepTech/SmartArray)**, my own take on `std::vector` in C++, with 39 unit tests to prove it works.
 
-You can reach me on [LinkedIn](https://linkedin.com/in/YOUR-PROFILE) or by [email](mailto:YOUR@EMAIL).
+You can reach me on [LinkedIn](https://linkedin.com/in/filip-hebda-36a572305/) or by [email](mailto:filiphebda300@gmail.com).
 
 **Fun facts:**
 
